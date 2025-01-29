@@ -1,2 +1,2 @@
 # Suma_n_Numeros
-Suma de los primeros numeros naturales 
+Suma de los n primeros numeros naturales 
